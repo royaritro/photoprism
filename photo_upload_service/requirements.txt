@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard] 
+pydantic 
+faiss-cpu 
+httpx 
+respx 
+qwen-vl-utils 
+transformers 
+accelerate 
+huggingface_hub 
+Pillow 
+requests 
+numpy 
